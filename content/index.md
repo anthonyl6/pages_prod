@@ -1,6 +1,2 @@
----
-title: Home
----
+## Welcome to my page!
 
-# Here are my blogs
-[[Test Blog]]
